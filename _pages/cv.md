@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Management Science and Engineering, Stanford University, 2018
+* Ph.D minor in Statistics, Stanford University, 2018
+* M.A. in Economics, Stanford University, 2016
+* B.S. in Mathematics, Stanford University, 2012
 
-Work experience
+**TODO**
+Work experience 
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
