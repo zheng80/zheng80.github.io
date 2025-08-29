@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 **Journal publication**  
 
 J17. [Performance Evaluation and Stochastic Optimization with Gradually Changing Non-Stationary Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4013301) (2024), Operations Research, Accepted, with Yuhang Wu.  
