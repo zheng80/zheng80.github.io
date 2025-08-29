@@ -1,6 +1,3 @@
----
-title: "Professional and University Service"
----
 + Associate Editor/Editorial Board Member: Operations Research, Naval Research Logistics 
 + Conference Proceedings Co-Editor: Proceedings of the Winter Simulation Conference (2021, 2022)
 + Conference Program Committee Member: Winter Simulation Conference tracks on Analysis Methodology (2019, 2020, 2022, 2023, 2024), Simulation Optimization (2022, 2023, 2024), Uncertainty Quantification and Robust Simulation (2019, 2020, 2021, 2022, 2023, 2024), Financial Risk Management (2019), Simulation and AI (2022, 2024)
