@@ -11,5 +11,5 @@ Zeyu Zheng is an associate professor with tenure at the University of California
 
 Email: zyzheng@berkeley.edu
 
-Zeyu Zheng   郑泽宇
+郑泽宇
 
