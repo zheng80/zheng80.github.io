@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zeyu Zheng"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
