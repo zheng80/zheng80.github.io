@@ -7,35 +7,41 @@ author_profile: true
 
 **Journal publication**  
 
+J20. [Collaborative Intelligence in Sequential Experiments: A Human-in-the-Loop Framework for Drug Discovery](https://arxiv.org/abs/2405.03942) (2025), Information Systems Research, Accepted, with Jinghai He, Cheng Hua and Yingfei Wang. 
+
+J19. [Machine Learning-Assisted Stochastic Kriging Metamodel for Offline Simulation Online Application] (2025), INFORMS Journal on Computing, Accepted, with Haoting Zhang, Jinghai He, Rhonda Righter and Max Zuo-Jun Shen. 
+
+J18. [Joint Optimization and Statistical Inference for Zero-th Order Simulation Optimization](https://arxiv.org/pdf/2210.06737) (2025), Operations Research, Accepted, with Yuhang Wu, Yingfei Wang, Guangyu Zhang, Zuohua Zhang and Chu Wang. 
+
 J17. [Performance Evaluation and Stochastic Optimization with Gradually Changing Non-Stationary Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4013301) (2024), Operations Research, Accepted, with Yuhang Wu.  
 
 J16. [On Greedy-like Policies in Online Matching with Reusable Network Resources and Decaying Rewards](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3981123) (2024), Management Science, Accepted, with David Simchi-Levi and Feng Zhu.
 
-J15. [Clustering then Estimation of Spatio-Temporal Self-Exciting Processes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4868604) (2024), INFORMS Journal on Computing, Accepted, with Haoting Zhang, Donglin Zhan, James Anderson and Rhonda Righter. 
+J15. [Clustering then Estimation of Spatio-Temporal Self-Exciting Processes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4868604) (2025), INFORMS Journal on Computing, Volume 37, Issue 4, pp. 874-893., with Haoting Zhang, Donglin Zhan, James Anderson and Rhonda Righter. 
 
-J14. [A Simple and Optimal Policy Design with Safety against Heavy-tailed Risk for Stochastic Bandits](https://papers.ssrn.com/abstract=4122441) (2024), Management Science, Accepted, with David Simchi-Levi and Feng Zhu. 
+J14. [A Simple and Optimal Policy Design with Safety against Heavy-tailed Risk for Stochastic Bandits](https://papers.ssrn.com/abstract=4122441) (2025), Management Science, Volume 71, Issue 7, pp. 6298-6318, with David Simchi-Levi and Feng Zhu. 
 
-J13. [Learning Newsvendor Problems With Intertemporal Dependence and Moderate Non-stationarities](https://journals.sagepub.com/doi/full/10.1177/10591478241242122) (2024), Production and Operations Management, Accepted, with Meng Qi and Max Zuo-Jun Shen.  
+J13. [Non-stationary A/B Tests: Optimal Variance Reduction, Bias Correction, and Valid Inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077638) (2025), Management Science, Volume 71, Issue 6, pp. 4707-4727, with Yuhang Wu, Guangyu Zhang, Zuohua Zhang and Chu Wang.  
 
-J12. [Non-stationary A/B Tests: Optimal Variance Reduction, Bias Correction, and Valid Inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077638) (2024), Management Science, Accepted, with Yuhang Wu, Guangyu Zhang, Zuohua Zhang and Chu Wang.  
+J12. [Stochastic Localization Methods for Convex Discrete Optimization via Simulation](https://pubsonline.informs.org/doi/10.1287/opre.2022.0030) (2025), Operations Research, Volume 73, Issue 2, pp. 927-948, with Haixiang Zhang and Javad Lavaei.  
 
-J11. [Stochastic Localization Methods for Convex Discrete Optimization via Simulation](https://pubsonline.informs.org/doi/10.1287/opre.2022.0030) (2023), Operations Research, Accepted, with Haixiang Zhang and Javad Lavaei.  
+J11. [Offline Planning and Online Learning under Recovering Rewards](https://arxiv.org/abs/2106.14813) (2025), Management Science, Volume 71, Issue 1, pp. 298-317, with David Simchi-Levi and Feng Zhu.  
 
-J10. [Offline Planning and Online Learning under Recovering Rewards](https://arxiv.org/abs/2106.14813) (2023), Management Science, Accepted, with David Simchi-Levi and Feng Zhu.  
+J10. [A Doubly Stochastic Simulator with Applications in Arrivals Modeling and Simulation](https://pubsonline.informs.org/doi/10.1287/opre.2021.0597) (2025), Operations Research, Volume 73, Issue 2, pp. 910-926, with Yufeng Zheng and Tingyu Zhu.  
 
-J9. [A Doubly Stochastic Simulator with Applications in Arrivals Modeling and Simulation](https://pubsonline.informs.org/doi/10.1287/opre.2021.0597) (2023), Operations Research, Accepted, with Yufeng Zheng and Tingyu Zhu.  
+J9. [Learning Newsvendor Problems With Intertemporal Dependence and Moderate Non-stationarities](https://journals.sagepub.com/doi/full/10.1177/10591478241242122) (2024), Production and Operations Management, Volume 33, Issue 5, pp. 1196-1213, with Meng Qi and Max Zuo-Jun Shen.  
 
-J8.  [Dynamic Pricing with External Information and Inventory Constraints](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4963) (2023), Management Science, Volume 70, Issue 9, pp.5985-6001, with Xiaocheng Li.  
+J8.  [Dynamic Pricing with External Information and Inventory Constraints](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4963) (2024), Management Science, Volume 70, Issue 9, pp. 5985-6001, with Xiaocheng Li.  
 
-J7.  [Inference on the Best Policies with Many Covariates](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001549) (2023), Journal of Econometrics, Volume 239, Issue 2, with Waverly Wei, Yuqing Zhou, and Jingshen Wang.  
+J7.  [Inference on the Best Policies with Many Covariates](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001549) (2024), Journal of Econometrics, Volume 239, Issue 2, with Waverly Wei, Yuqing Zhou, and Jingshen Wang.  
 
 J6.  [Gradient-based Simulation Optimization Algorithms via Multi-Resolution System Approximations](https://pubsonline.informs.org/doi/full/10.1287/ijoc.2023.1279) (2023), INFORMS Journal on Computing, Volume 35, Issue 3, pp. 633-651, with Jingxu Xu.  
 
 J5.  [Learning to Simulate Sequentially Generated Data via Neural Networks and Wasserstein Training](https://dl.acm.org/doi/abs/10.1145/3583070) (2023), ACM Transactions on Modeling and Computer Simulation (TOMACS), Volume 33, Issue 3, pp. 1-33, with Tingyu Zhu and Haoyu Liu.   
 
-J4.  [Gradient-based Methods for Convex Discrete Optimization via Simulation](https://pubsonline.informs.org/doi/10.1287/opre.2022.2295) (2022), Operations Research, Volume 71, Issue 5, pp. 1815-1834, with Haixiang Zhang and Javad Lavaei.  
+J4.  [Gradient-based Methods for Convex Discrete Optimization via Simulation](https://pubsonline.informs.org/doi/10.1287/opre.2022.2295) (2023), Operations Research, Volume 71, Issue 5, pp. 1815-1834, with Haixiang Zhang and Javad Lavaei.  
 
-J3.  [Immediacy Provision and Matchmaking](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4355) (2022), Management Science, Volume 69, Issue 2, pp. 1245-1263, with Yu An.  
+J3.  [Immediacy Provision and Matchmaking](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2022.4355) (2023), Management Science, Volume 69, Issue 2, pp. 1245-1263, with Yu An.  
 
 J2.  [Method of Moments Estimation for Levy-driven Ornstein-Uhlenbeck Stochastic Volatility Models](https://www.cambridge.org/core/journals/probability-in-the-engineering-and-informational-sciences/article/method-of-moments-estimation-for-levydriven-ornsteinuhlenbeck-stochastic-volatility-models/CCE3B90AD579769CF4A8080FA3E941EA) (2021), Probability in the Engineering and Informational Sciences, 35(4), 975-1004, with Xiangyu Yang, Yanfeng Wu and Jian-Qiang Hu.   
 
